@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: grey;
+}
+
+.impaginatura {
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+  background-color: white;
+  height: 100%;
+}
+
+.titolo {
+  padding-top: 30px;
+  text-align: center;
+}
+.sommario {
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
